@@ -303,15 +303,5 @@
       "Great work with undoing the merges! Try listing the directory to see what has changed."
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1787736018.191687,
-    "completed_at": 1787736023.161278,
-    "comments": [
-      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
